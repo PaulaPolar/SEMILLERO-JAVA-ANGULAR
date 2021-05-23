@@ -1,0 +1,28 @@
+
+*{
+    animation: reverse;
+    align-items: center;
+}
+.titulo{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #8deece;
+    background-color: #ceb5df ;
+    outline: 5px solid #7a0f63;
+    outline-offset: 10px;
+}
+
+a {
+    padding: 10px;
+    border: 1px solid rgb(63, 49, 30);
+    margin: 50px;
+    background-color: #cde6c5 ;
+    outline: 5px solid rgb(212, 77, 122);
+    outline-offset: 10px;
+    text-decoration: none;  
+}
+
+.container{
+    display: block;
+    
+}
