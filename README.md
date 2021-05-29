@@ -12,3 +12,5 @@ restaurante-semillero ->  CRUD con Repository y Jpa
 En la carpeta de  angular se encuenran los trabajos dejados desde la seccion 10:
 
 restaurante-semillero -> se encuentra el trabajo dejado con angular en la seccion 10
+restaurante -> se encuentra el trabajo dejado con angular en la seccion 11
+
