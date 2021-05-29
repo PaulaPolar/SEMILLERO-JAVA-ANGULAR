@@ -1,0 +1,36 @@
+/* Structure */
+
+.mat-header-cell{
+    text-align: center;
+    background-color: rgb(180, 177, 172);
+}
+table {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .mat-cell{
+      background-color: rgb(252, 237, 218);
+  }
+  .imagen {
+    width: 40px;
+    height: 40px;
+    
+
+  }
+  .mensaje{
+    text-align: center;
+  }
+
+  body{
+    margin: 20px;
+  }
+  
+  h1{
+    text-align: center;
+  }
